@@ -1,5 +1,7 @@
-# gen711
-gen711 final project
+# Genomics & Bioinformatics (GEN711) Final Project
+## Rhizosphere Microbiome Community Analysis
+
+### Introduction
 
 Enter the QIIME2 environment via RON:
 
