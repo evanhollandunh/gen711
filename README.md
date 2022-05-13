@@ -37,6 +37,8 @@ The above figure shows the taxonomy barplot. Some samples had a 0 feature count,
 
 ![Bray](https://user-images.githubusercontent.com/103780894/168382049-f66f6492-cc40-4812-8d65-3adc51620a47.PNG)
 
-This figure is a Bray Curtis plot, output from the core diversity metrics step. The samples, represented by dots, are colored by host plant, of which there were 3. In red is BVM, a wild relative of quinoa. In blue is a cross of BVM x quinoa. In orange is quinoa. The axes represent two different measures of diversity, which allows useful information to be determined by observing which samples cluster together. 
+This figure is a Bray-Curtis plot, output from the core diversity metrics step. The samples, represented by dots, are colored by host plant, of which there were 3. In red is BVM, a wild relative of quinoa. In blue is a cross of BVM x quinoa. In orange is quinoa. The axes represent two different measures of diversity, which allows useful information to be determined by observing which samples cluster together. In this case, the samples are clearly not clustering by host, meaning that there is some deal of diversity between rhizosphere communities even within the same species of plant.
+
+Although the expectation was to see some sort of clustering related to host species, the data is still useful. The taxonomy, especially, is important in that it shows the types of microbes that may have a large influence on plant growth, nutrient availability, and disease resistance.
 
 
